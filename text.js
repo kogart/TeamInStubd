@@ -1,0 +1,1 @@
+var InStudy = "Hej allihopa!"
